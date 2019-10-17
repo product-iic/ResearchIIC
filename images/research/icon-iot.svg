@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="icon-iot" transform="translate(18 -37.725)">
+    <circle id="Circle" cx="34" cy="34" r="34" transform="translate(-18 37.725)" fill="#4988ff" opacity="0.08"/>
+    <path id="Path_33" data-name="Path 33" d="M72.4,165.818a1.716,1.716,0,0,0,2.426,2.426,11.857,11.857,0,0,1,16.749,0A1.713,1.713,0,0,0,94,165.818,15.28,15.28,0,0,0,72.4,165.818Z" transform="translate(-67.198 -94.979)" fill="#367cff"/>
+    <path id="Path_34" data-name="Path 34" d="M143.2,264.037a1.716,1.716,0,0,0,2.426,2.426,5.289,5.289,0,0,1,7.482,0,1.711,1.711,0,0,0,2.42-2.42A8.717,8.717,0,0,0,143.2,264.037Z" transform="translate(-133.367 -188.567)" fill="#367cff"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="2.282" cy="2.282" r="2.282" transform="translate(13.718 79.348)" fill="#367cff"/>
+    <path id="Path_35" data-name="Path 35" d="M31.5,66.131a21.954,21.954,0,0,0-31,0,1.716,1.716,0,0,0,2.426,2.426,18.509,18.509,0,0,1,26.153,0,1.713,1.713,0,1,0,2.42-2.426Z" fill="#367cff"/>
+  </g>
+</svg>
